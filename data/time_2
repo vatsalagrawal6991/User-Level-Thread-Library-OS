@@ -1,0 +1,3 @@
+#matrix Thread     Original     Mythread Time   CS MyThread    Pthread Time   CS Pthread
+2        1         0.000001        0.054752      0.027376        0.000193      0.000192
+2        2         0.000000        0.047740      0.047740        0.005203      0.002602
